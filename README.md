@@ -20,7 +20,7 @@ A full position-level change log for each quarter is saved in [`data/`](data/) a
 
 - **SpaceX (SPCX)** was the most common new position: 8 of 23 funds opened one. At D1 Capital it is 62% of the 13F portfolio.
 - **Alphabet, Amazon and Carvana** each drew buying from 7 funds.
-- **Meta and Broadcom** led selling, with 6 funds each exiting or trimming. Meta also appears on the buy list (4 funds), so the group disagreed on it.
+- **TSMC, Meta and Broadcom** led selling, with 6 funds each exiting or trimming. Meta also had 4 funds buying, so the group disagreed on it.
 
 ## How it works
 
